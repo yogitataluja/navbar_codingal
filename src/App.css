@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* logo */
+.menu .logo{
+    width:4rem
+}
+.logomob{
+    height: 4rem;
+}
+
+
+.timerbtn{
+    display: flex;
+    align-items: center;
+}
+
+.hamburg{
+    width: 3em !important;
+   padding-left: 60vw;
+
+}
+
+
+/* post page */
+
+
+/* spinner */
+.spin{
+    position: relative;
+    left:50%; 
+    bottom:50%;
+    
+}
